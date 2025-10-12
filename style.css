@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: #f1f1f1;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.faq-item .answer {
+  display: none;
+  margin: 5px 0;
+  color: #333;
+}
