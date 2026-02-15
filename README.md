@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Assignment: Interactive Web Pages with JavaScript
 
 Welcome to the exciting world of interactivity! This assignment is all about **making your web pages feel alive**. You’ll learn how to respond to user actions, build engaging components, and validate form input—without reloading the page. This is where JavaScript gets fun, practical, and powerful. 🚀
@@ -56,3 +57,6 @@ Each section of your JavaScript should be commented to explain its purpose.
 * Clear, modular, and well-commented JavaScript code
 * A clean and functional user experience
 
+=======
+# javascript-events-and-basic-interactivity-javascript
+>>>>>>> 188f8afe080eb4d7f7aed51ecef1a4c1a2a5f5c0
